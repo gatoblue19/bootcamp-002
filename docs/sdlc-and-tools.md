@@ -13,6 +13,7 @@ Este documento describe el ciclo de vida del desarrollo de software (SDLC) y el 
 ## 🛠️ Tech Stack Principal
 * **Lenguaje:** Java
 * **Gestor de Dependencias y Build:** Maven
+* **API Gateway:** Kong API Gateway
 
 ---
 
